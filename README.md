@@ -21,7 +21,7 @@
 
 ### Getting Started
 
-1. **Clone the Repository**: `git clone https://github.com/shubhampancheshwar9503/JMart.git`
+1. **Clone the Repository**: `git clone https://github.com/yourusername/JMart.git`
 2. **Compile and Run**: Use a Java compiler to compile the files and run the `JMart` class.
 
 ### Requirements
